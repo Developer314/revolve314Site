@@ -1,4 +1,4 @@
-@import url("styles/themes/theme-alice.min.css");
+@import url("./theme-alice.min.css");
 .factory-flag {
 	visibility: hidden;
 }
